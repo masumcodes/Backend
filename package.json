@@ -19,6 +19,7 @@
   "homepage": "https://github.com/masumcodes/Backend#readme",
   "dependencies": {
     "bcrypt": "^6.0.0",
+    "cloudinary": "^2.8.0",
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
@@ -27,6 +28,7 @@
     "mongodb": "^7.0.0",
     "mongoose": "^8.19.3",
     "mongoose-aggregate-paginate-v2": "^1.1.4",
+    "multer": "^2.0.2",
     "nodemon": "^3.1.11"
   }
 }
